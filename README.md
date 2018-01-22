@@ -12,7 +12,7 @@ _in English_
 
 https://www.linkedin.com/pulse/simple-efficient-method-extract-main-topics-from-sentence-kelvin/
 
-## Main reference:
+## Main reference
 
 Neubig, G. 2015. NLP Programming Tutorial 5 – Part of Speech Tagging with Hidden Markov Models. http://www.phontron.com/slides/nlp-programming-en-04-hmm.pdf (Accessed on January 11th, 2018)
 
